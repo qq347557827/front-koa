@@ -1,0 +1,69 @@
+'{
+  "title": "1",
+  "path": "1",
+  "type": "",
+  "component": "1",
+  "sort": 0,
+  "hideInBread": false,
+  "hideInMenu": false,
+  "notCache": false,
+  "icon": "",
+  "redirect": "",
+  "selected": true,
+  "expend": true,
+  "nodeKey": 0,
+  "children": [
+    {
+      "title": "1-1",
+      "path": "1-1",
+      "type": "",
+      "component": "1-1",
+      "sort": 1,
+      "hideInBread": false,
+      "hideInMenu": false,
+      "notCache": false,
+      "icon": "",
+      "redirect": "",
+      "selected": false,
+      "expend": true,
+      "nodeKey": 1,
+      "children": [
+        {
+          "title": "1-1-1",
+          "path": "1-1-1",
+          "type": "",
+          "component": "1-1-1",
+          "sort": 1,
+          "hideInBread": false,
+          "hideInMenu": false,
+          "notCache": false,
+          "icon": "",
+          "redirect": "",
+          "selected": false,
+          "expend": true,
+          "nodeKey": 2,
+          "children": [
+            {
+              "title": "1-1-1-1",
+              "path": "1-1-1-1",
+              "type": "",
+              "component": "1-1-1-1",
+              "sort": 1,
+              "hideInBread": false,
+              "hideInMenu": false,
+              "notCache": false,
+              "icon": "",
+              "redirect": "",
+              "selected": false,
+              "expend": true,
+              "nodeKey": 3
+            }
+          ],
+          "expand": true
+        }
+      ],
+      "expand": true
+    }
+  ],
+  "expand": true
+}'
